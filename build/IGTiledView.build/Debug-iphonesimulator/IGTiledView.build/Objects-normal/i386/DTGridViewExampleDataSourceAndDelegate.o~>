@@ -1,0 +1,71 @@
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:9:34: error: ExampleViewController.h: No such file or directory
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:13: warning: cannot find interface declaration for 'ExampleViewController'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m: In function '-[ExampleViewController init]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:14: error: no super class declared in @interface for 'ExampleViewController'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:17: error: 'colours' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:17: error: (Each undeclared identifier is reported only once
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:17: error: for each function it appears in.)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m: In function '-[ExampleViewController dealloc]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:34: error: 'pickerView' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:35: error: 'navBar' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:36: error: 'colours' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:37: error: no super class declared in @interface for 'ExampleViewController'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m: In function '-[ExampleViewController viewDidLoad]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:41: error: no super class declared in @interface for 'ExampleViewController'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:42: error: request for member 'navigationItem' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:43: error: request for member 'title' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:44: error: request for member 'gridView' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:45: error: request for member 'gridView' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:46: error: request for member 'gridView' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m: In function '-[ExampleViewController scroll]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:51: error: 'pickerView' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:54: error: 'navBar' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:55: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:65: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:65: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:69: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:70: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:70: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:75: error: request for member 'gridView' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:76: error: request for member 'gridView' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:79: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:79: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:79: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:79: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:79: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:79: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:80: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:80: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m: In function '-[ExampleViewController scrollTo]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:88: error: request for member 'gridView' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:88: error: 'pickerView' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:88: error: 'DTGridViewScrollPositionNone' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m: In function '-[ExampleViewController endScrolling]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:95: error: request for member 'gridView' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:96: error: request for member 'gridView' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:98: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:98: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:98: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:98: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:98: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:98: error: request for member 'navigationController' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:99: error: 'pickerView' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:99: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:99: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m: At top level:
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:125: error: expected ')' before 'DTGridView'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:129: error: expected ')' before 'DTGridView'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:132: error: expected ')' before 'DTGridView'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:135: error: expected ')' before 'DTGridView'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:139: error: expected ')' before 'DTGridView'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:142: error: expected ')' before 'DTGridView'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:239: error: expected ')' before 'DTGridViewCell'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:239: error: expected ')' before 'DTGridView'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m: In function '-[ExampleViewController gridView:viewForRow:column:]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:243: error: 'DTGridViewCell' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:243: error: 'view' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:351: warning: control reaches end of non-void function
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m: At top level:
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:359: error: expected ')' before 'DTGridView'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:363: error: expected ')' before 'DTGridView'
+/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewExampleDataSourceAndDelegate.m:363: error: expected ')' before 'DTGridViewEdge'

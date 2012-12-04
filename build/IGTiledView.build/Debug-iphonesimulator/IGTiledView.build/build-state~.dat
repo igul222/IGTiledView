@@ -1,0 +1,306 @@
+TIGTiledView
+v7
+r0
+t292542836.664509
+cCheck dependencies
+cProcessInfoPlistFile /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/Info.plist IGTiledView-Info.plist
+cCompileXIB /Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib
+cProcessPCH /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-armltbkkvluvyvdkfdajtmsjgevq/IGTiledView_Prefix.pch.gch IGTiledView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/main.o /Users/ishaan/Dropbox/Projects/IGTiledView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/IGTiledViewAppDelegate.o /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridView.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridViewCell.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/IGTiledView normal i386
+cGenerateDSYMFile /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app.dSYM /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/IGTiledView
+cTouch /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BB1FA2C0000000000000110
+t1269955116
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.h
+c000000004BBF8CCF0000000000000156
+t1270844623
+s342
+i<UIKit/UIKit.h>
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m
+c000000004BBF8CCF0000000000000236
+t1270844623
+s566
+i"IGTiledViewAppDelegate.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.h
+c000000004AE25D9C0000000000001EF6
+t1256349084
+s7926
+i<UIKit/UIKit.h>
+i"DTGridViewCell.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m
+c000000004AE25D9C00000000000059A9
+t1256349084
+s22953
+i"DTGridView.h"
+i"DTGridViewCellInfoProtocol.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.h
+c000000004AE25D9C0000000000000309
+t1256349084
+s777
+i<UIKit/UIKit.h>
+i"DTGridViewCellInfoProtocol.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m
+c000000004AE25D9C000000000000031F
+t1256349084
+s799
+i"DTGridViewCell.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfoProtocol.h
+c000000004AE25D9C0000000000000128
+t1256349084
+s296
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.h
+c000000004AE25D9C0000000000000173
+t1256349084
+s371
+i<UIKit/UIKit.h>
+i"DTGridView.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m
+c000000004AE25D9C0000000000000600
+t1256349084
+s1536
+i"DTGridViewController.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView_Prefix.pch
+c000000004BBF8CCF00000000000000BF
+t1270844623
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib
+c000000004BBF8CCF0000000000003E81
+t1270844623
+s16001
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app
+t1270850036
+s204
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app.dSYM
+t1270850036
+s102
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/IGTiledView
+t1270850036
+s60776
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/Info.plist
+t1270850035
+s814
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/MainWindow.nib
+t1270850035
+s982
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/PkgInfo
+t1270850035
+s8
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridView.o
+t1270850036
+s77632
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridViewCell.o
+t1270850036
+s16408
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridViewController.o
+t1270850036
+s42792
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/IGTiledView.LinkFileList
+c000000004BBFA1F300000000000002D0
+t1270850035
+s720
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/IGTiledViewAppDelegate.o
+t1270850036
+s17972
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/main.o
+t1270850036
+s5952
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/main.m
+c000000004BBF8CCF0000000000000170
+t1270844623
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-armltbkkvluvyvdkfdajtmsjgevq/IGTiledView_Prefix.pch.gch
+t1270850036
+s13805456
+
+NIGTiledView-Info.plist
+c000000004BBF8CCF00000000000004D6
+t1270844623
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292542835#292542835#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridView.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292542836.277217
+e292542836.593293
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridView.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m292542836#292542836#0(0"0(0#0#55"/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m4300911832#1993"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources/i386 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-armltbkkvluvyvdkfdajtmsjgevq/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridView.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridViewCell.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292542836.283837
+e292542836.365187
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridViewCell.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m292542836#292542836#0(0"0(0#0#59"/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m4300911832#2001"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources/i386 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-armltbkkvluvyvdkfdajtmsjgevq/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridViewCell.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292542836.365279
+e292542836.443863
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridViewController.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m292542836#292542836#0(0"0(0#0#65"/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m4300911832#2013"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources/i386 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-armltbkkvluvyvdkfdajtmsjgevq/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/DTGridViewController.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/IGTiledViewAppDelegate.o /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292542836.202878
+e292542836.277126
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/IGTiledViewAppDelegate.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m292542836#292542836#0(0"0(0#0#75"/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m4300911832#2025"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources/i386 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-armltbkkvluvyvdkfdajtmsjgevq/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/IGTiledViewAppDelegate.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/main.o /Users/ishaan/Dropbox/Projects/IGTiledView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292542836.201850
+e292542836.283754
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/main.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/main.m292542836#292542836#0(0"0(0#0#49"/Users/ishaan/Dropbox/Projects/IGTiledView/main.m4300911832#1981"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources/i386 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-armltbkkvluvyvdkfdajtmsjgevq/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/main.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib
+s292542835.332167
+e292542835.653492
+r1
+xCompileXIB
+x/Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292542835#292542835#0(0"0(0#0#57"/Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib4300911832#496"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/MainWindow.nib /Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app.dSYM /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/IGTiledView
+s292542836.639858
+e292542836.661633
+r1
+xGenerateDSYMFile
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app.dSYM
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/IGTiledView
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/IGTiledView.app.dSYM build/Debug-iphonesimulator/IGTiledView.app/IGTiledView292542836#292542836#0(0"0(0#0#98"/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/IGTiledView4300911832#407"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/IGTiledView -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app.dSYM0#
+
+CLd /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/IGTiledView normal i386
+s292542836.593377
+e292542836.639757
+r1
+xLd
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/IGTiledView
+xnormal
+xi386
+lSLF07#2@103"Link /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/IGTiledView292542836#292542836#0(0"0(0#0#0"4300911832#902"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator -filelist /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/Objects-normal/i386/IGTiledView.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/IGTiledView0#
+
+CProcessInfoPlistFile /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/Info.plist IGTiledView-Info.plist
+s292542835.312754
+e292542835.319701
+r1
+xProcessInfoPlistFile
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/Info.plist
+xIGTiledView-Info.plist
+lSLF07#2@30"Process IGTiledView-Info.plist292542835#292542835#0(0"0(0#0#65"/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView-Info.plist28429264708632676#503"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility IGTiledView-Info.plist -genpkginfo /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app/Info.plist0#
+
+CProcessPCH /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-armltbkkvluvyvdkfdajtmsjgevq/IGTiledView_Prefix.pch.gch IGTiledView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292542835.653633
+e292542836.201760
+r1
+xProcessPCH
+x/var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-armltbkkvluvyvdkfdajtmsjgevq/IGTiledView_Prefix.pch.gch
+xIGTiledView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile IGTiledView_Prefix.pch292542835#292542836#0(0"0(0#0#65"/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView_Prefix.pch4300911832#1865"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources/i386 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphonesimulator/IGTiledView.build/DerivedSources -c /Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView_Prefix.pch -o /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-armltbkkvluvyvdkfdajtmsjgevq/IGTiledView_Prefix.pch.gch0#
+
+CTouch /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app
+s292542836.661711
+e292542836.664466
+r1
+xTouch
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app
+lSLF07#2@92"Touch /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app292542836#292542836#0(0"0(0#0#0"4300911832#290"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphonesimulator/IGTiledView.app0#
+

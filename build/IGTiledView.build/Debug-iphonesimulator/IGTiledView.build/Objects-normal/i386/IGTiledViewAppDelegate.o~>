@@ -1,0 +1,6 @@
+/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m:10:34: error: IGTiledViewController.h: No such file or directory
+/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m: In function '-[IGTiledViewAppDelegate application:didFinishLaunchingWithOptions:]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m:19: error: 'IGTiledViewController' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m:19: error: (Each undeclared identifier is reported only once
+/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m:19: error: for each function it appears in.)
+/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m:20: error: request for member 'view' in something not a structure or union

@@ -1,0 +1,765 @@
+TIGTiledView
+v7
+r0
+t292566511.333288
+cCheck dependencies
+cCpResource build/Debug-iphoneos/IGTiledView.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/Info.plist IGTiledView-Info.plist
+cCompileXIB /Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib
+cProcessPCH /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch.gch IGTiledView_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch.gch IGTiledView_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/main.o /Users/ishaan/Dropbox/Projects/IGTiledView/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledViewAppDelegate.o /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridView.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewCell.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/ExampleViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewCellInfo.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/TiledExampleViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView.o /Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTile.o /Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/main.o /Users/ishaan/Dropbox/Projects/IGTiledView/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView normal armv6
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledViewAppDelegate.o /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridView.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewCell.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/ExampleViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewCellInfo.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/TiledExampleViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView.o /Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTile.o /Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView normal armv7
+cCreateUniversalBinary /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/IGTiledView normal "armv6 armv7"
+cGenerateDSYMFile /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app.dSYM /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/IGTiledView
+cProcessProductPackaging "/Users/ishaan/Library/MobileDevice/Provisioning Profiles/4D5CFBA5-6AFC-46F8-9F5C-F00231804ADF.mobileprovision" /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/embedded.mobileprovision
+cTouch /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView.xcent
+cCodeSign /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004BB1FA070000000000000110
+t1269955079
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.h
+c000000004BBFB71F00000000000001AB
+t1270855455
+s427
+i<UIKit/UIKit.h>
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m
+c000000004BBFB73800000000000002AA
+t1270855480
+s682
+i"IGTiledViewAppDelegate.h"
+i"TiledExampleViewController.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.h
+c000000004BBFB1BD0000000000000EF3
+t1270854077
+s3827
+i<UIKit/UIKit.h>
+i"DTGridViewCell.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m
+c000000004BBFB535000000000000577B
+t1270854965
+s22395
+i"DTGridView.h"
+i"DTGridViewCellInfoProtocol.h"
+i"DTGridViewCell.h"
+i"DTGridViewCellInfo.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.h
+c000000004AE25D9C0000000000000309
+t1256349084
+s777
+i<UIKit/UIKit.h>
+i"DTGridViewCellInfoProtocol.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m
+c000000004AE25D9C000000000000031F
+t1256349084
+s799
+i"DTGridViewCell.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.h
+c000000004BBFB19A00000000000001BB
+t1270854042
+s443
+i<Foundation/Foundation.h>
+i"DTGridViewCellInfoProtocol.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m
+c000000004BBFB19F0000000000000120
+t1270854047
+s288
+i"DTGridViewCellInfo.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfoProtocol.h
+c000000004BBFAECE0000000000000141
+t1270853326
+s321
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.h
+c000000004AE25D9C0000000000000173
+t1256349084
+s371
+i<UIKit/UIKit.h>
+i"DTGridView.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m
+c000000004AE25D9C0000000000000600
+t1256349084
+s1536
+i"DTGridViewController.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.h
+c000000004BBFA5660000000000000126
+t1270850918
+s294
+i<Foundation/Foundation.h>
+i"DTGridViewController.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m
+c000000004BBFB1610000000000000755
+t1270853985
+s1877
+i"ExampleViewController.h"
+i"DTGridViewCell.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.h
+c000000004BBFBE2C00000000000000CD
+t1270857260
+s205
+i<UIKit/UIKit.h>
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m
+c000000004BBFBE3500000000000000C0
+t1270857269
+s192
+i"IGTile.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.h
+c000000004BBFFB7900000000000003AB
+t1270872953
+s939
+i<Foundation/Foundation.h>
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m
+c000000004BBFFD9D00000000000012A3
+t1270873501
+s4771
+i"IGTiledView.h"
+i"IGTile.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView_Prefix.pch
+c000000004BBF8CCF00000000000000BF
+t1270844623
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib
+c000000004BBF8CCF0000000000003E81
+t1270844623
+s16001
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.h
+c000000004BBFBCA6000000000000017A
+t1270856870
+s378
+i<UIKit/UIKit.h>
+i"IGTiledView.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m
+c000000004BBFFD4400000000000009DE
+t1270873412
+s2526
+i"TiledExampleViewController.h"
+i"IGTiledView.h"
+i"IGTile.h"
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app
+t1270873711
+s340
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app.dSYM
+t1270873710
+s102
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/IGTiledView
+t1270873710
+s167652
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/Info.plist
+t1270873706
+s910
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/MainWindow.nib
+t1270873708
+s1365
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/PkgInfo
+t1270873706
+s8
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/ResourceRules.plist
+t1270873706
+s485
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/embedded.mobileprovision
+t1270873710
+s7350
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView.xcent
+t1270873710
+s324
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridView.o
+t1270873709
+s75724
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewCell.o
+t1270873709
+s17252
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewCellInfo.o
+t1270873709
+s13932
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewController.o
+t1270873709
+s40128
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/ExampleViewController.o
+t1270873709
+s35912
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTile.o
+t1270873709
+s5224
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView
+t1270873710
+s82428
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView.LinkFileList
+c000000004BBFFE6A0000000000000570
+t1270873706
+s1392
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView.o
+t1270873709
+s28248
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledViewAppDelegate.o
+t1270873709
+s39160
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/TiledExampleViewController.o
+t1270873709
+s40408
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/main.o
+t1270873709
+s6456
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridView.o
+t1270873710
+s71264
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewCell.o
+t1270873710
+s17124
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewCellInfo.o
+t1270873710
+s13804
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewController.o
+t1270873710
+s39960
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/ExampleViewController.o
+t1270873710
+s35580
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTile.o
+t1270873710
+s5224
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView
+t1270873710
+s77540
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView.LinkFileList
+c000000004BBFFE6A0000000000000570
+t1270873706
+s1392
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView.o
+t1270873710
+s26812
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledViewAppDelegate.o
+t1270873709
+s39116
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/TiledExampleViewController.o
+t1270873710
+s40028
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/main.o
+t1270873709
+s6440
+
+N/Users/ishaan/Dropbox/Projects/IGTiledView/main.m
+c000000004BBF8CCF0000000000000170
+t1270844623
+s368
+i<UIKit/UIKit.h>
+
+N/Users/ishaan/Library/MobileDevice/Provisioning Profiles/4D5CFBA5-6AFC-46F8-9F5C-F00231804ADF.mobileprovision
+c000000004B870C860000000000001CB6
+t1267141766
+s7350
+
+N/var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch.gch
+t1270873709
+s8855736
+
+N/var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch.gch
+t1270873708
+s8388792
+
+NIGTiledView-Info.plist
+c000000004BBF8CCF00000000000004D6
+t1270844623
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292566506#292566506#0(125"[BWARN]warning: building with 'Targeted Device Family' that includes iPad ('2') requires building with the 3.2 or later SDK.1(22@117"warning: building with 'Targeted Device Family' that includes iPad ('2') requires building with the 3.2 or later SDK.292566506#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCodeSign /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app
+s292566510.822635
+e292566511.333016
+r1
+xCodeSign
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app
+lSLF07#2@45"CodeSign build/Debug-iphoneos/IGTiledView.app292566510#292566511#0(0"0(0#0#79"/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app4300911832#707"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Ishaan Gulrajani (2585WLR26S)" --resource-rules=/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/ResourceRules.plist --entitlements /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView.xcent /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridView.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292566509.206153
+e292566509.712531
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridView.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m292566509#292566509#0(0"0(0#0#55"/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m4300911832#1864"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv6 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridView.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewCell.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292566509.207911
+e292566509.348192
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewCell.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m292566509#292566509#0(0"0(0#0#59"/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m4300911832#1872"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv6 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewCell.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewCellInfo.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292566509.502434
+e292566509.567658
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewCellInfo.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m292566509#292566509#0(0"0(0#0#63"/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m4300911832#1880"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv6 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewCellInfo.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292566509.348276
+e292566509.423559
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewController.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m292566509#292566509#0(0"0(0#0#65"/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m4300911832#1884"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv6 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/DTGridViewController.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/ExampleViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292566509.423649
+e292566509.502336
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/ExampleViewController.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m292566509#292566509#0(0"0(0#0#66"/Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m4300911832#1886"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv6 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/ExampleViewController.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTile.o /Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292566509.712738
+e292566509.759226
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTile.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m292566509#292566509#0(0"0(0#0#51"/Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m4300911832#1856"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv6 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTile.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView.o /Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292566509.669614
+e292566509.834820
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m292566509#292566509#0(0"0(0#0#56"/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m4300911832#1866"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv6 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledViewAppDelegate.o /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292566509.082455
+e292566509.206058
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledViewAppDelegate.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m292566509#292566509#0(0"0(0#0#75"/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m4300911832#1896"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv6 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledViewAppDelegate.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/TiledExampleViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292566509.567751
+e292566509.669528
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/TiledExampleViewController.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m292566509#292566509#0(0"0(0#0#71"/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m4300911832#1896"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv6 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/TiledExampleViewController.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/main.o /Users/ishaan/Dropbox/Projects/IGTiledView/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292566509.081354
+e292566509.207826
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/main.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/main.m292566509#292566509#0(0"0(0#0#49"/Users/ishaan/Dropbox/Projects/IGTiledView/main.m4300911832#1852"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv6 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/main.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridView.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292566509.899010
+e292566510.102400
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridView.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m292566509#292566510#0(0"0(0#0#55"/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m4300911832#1864"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv7 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridView.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridView.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewCell.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292566510.102496
+e292566510.160116
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewCell.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m292566510#292566510#0(0"0(0#0#59"/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m4300911832#1872"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv7 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCell.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewCell.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewCellInfo.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292566510.282764
+e292566510.355622
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewCellInfo.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m292566510#292566510#0(0"0(0#0#63"/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m4300911832#1880"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv7 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewCellInfo.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewCellInfo.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292566510.160217
+e292566510.246946
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewController.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m292566510#292566510#0(0"0(0#0#65"/Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m4300911832#1884"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv7 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/DTGridViewController.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/DTGridViewController.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/ExampleViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292566510.247036
+e292566510.391856
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/ExampleViewController.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m292566510#292566510#0(0"0(0#0#66"/Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m4300911832#1886"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv7 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/ExampleViewController.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/ExampleViewController.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTile.o /Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292566510.496061
+e292566510.542052
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTile.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m292566510#292566510#0(0"0(0#0#51"/Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m4300911832#1856"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv7 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/IGTile.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTile.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView.o /Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292566510.391950
+e292566510.495971
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m292566510#292566510#0(0"0(0#0#56"/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m4300911832#1866"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv7 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledViewAppDelegate.o /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292566509.836311
+e292566509.898912
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledViewAppDelegate.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m292566509#292566509#0(0"0(0#0#75"/Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m4300911832#1896"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv7 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/Classes/IGTiledViewAppDelegate.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledViewAppDelegate.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/TiledExampleViewController.o /Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292566510.355727
+e292566510.516209
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/TiledExampleViewController.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m292566510#292566510#0(0"0(0#0#71"/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m4300911832#1896"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv7 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/TiledExampleViewController.o0#
+
+CCompileC build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/main.o /Users/ishaan/Dropbox/Projects/IGTiledView/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292566509.759321
+e292566509.836241
+r1
+xCompileC
+xbuild/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/main.o
+x/Users/ishaan/Dropbox/Projects/IGTiledView/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/ishaan/Dropbox/Projects/IGTiledView/main.m292566509#292566509#0(0"0(0#0#49"/Users/ishaan/Dropbox/Projects/IGTiledView/main.m4300911832#1852"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv7 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -include /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch -c /Users/ishaan/Dropbox/Projects/IGTiledView/main.m -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib
+s292566506.690872
+e292566508.210250
+r1
+xCompileXIB
+x/Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292566506#292566508#0(0"0(0#0#57"/Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib32088439405871216#484"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/MainWindow.nib /Users/ishaan/Dropbox/Projects/IGTiledView/MainWindow.xib0#
+
+CCpResource build/Debug-iphoneos/IGTiledView.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s292566506.652146
+e292566506.690606
+r1
+xCpResource
+xbuild/Debug-iphoneos/IGTiledView.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist292566506#292566506#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist4300911832#494"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app0#
+
+CCreateUniversalBinary /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/IGTiledView normal "armv6 armv7"
+s292566510.693710
+e292566510.732781
+r1
+xCreateUniversalBinary
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/IGTiledView
+xnormal
+xarmv6 armv7
+lSLF07#2@91"CreateUniversalBinary build/Debug-iphoneos/IGTiledView.app/IGTiledView normal "armv6 armv7"292566510#292566510#0(0"0(0#0#54"/Users/ishaan/Dropbox/Projects/IGTiledView/armv6 armv74300911832#566"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView -output /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/IGTiledView0#
+
+CGenerateDSYMFile /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app.dSYM /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/IGTiledView
+s292566510.732865
+e292566510.807091
+r1
+xGenerateDSYMFile
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app.dSYM
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/IGTiledView
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/IGTiledView.app.dSYM build/Debug-iphoneos/IGTiledView.app/IGTiledView292566510#292566510#0(0"0(0#0#91"/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/IGTiledView4300911832#386"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/IGTiledView -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app.dSYM0#
+
+CLd /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView normal armv6
+s292566509.834945
+e292566510.282638
+r1
+xLd
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView
+xnormal
+xarmv6
+lSLF07#2@137"Link /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView292566509#292566510#0(0"0(0#0#0"4300911832#909"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -L/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -filelist /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv6/IGTiledView0#
+
+CLd /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView normal armv7
+s292566510.542141
+e292566510.693613
+r1
+xLd
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView
+xnormal
+xarmv7
+lSLF07#2@137"Link /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView292566510#292566510#0(0"0(0#0#0"4300911832#909"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -L/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -filelist /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/Objects-normal/armv7/IGTiledView0#
+
+CProcessInfoPlistFile /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/Info.plist IGTiledView-Info.plist
+s292566506.653242
+e292566506.690808
+r1
+xProcessInfoPlistFile
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/Info.plist
+xIGTiledView-Info.plist
+lSLF07#2@30"Process IGTiledView-Info.plist292566506#292566506#0(0"0(0#0#65"/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView-Info.plist4300911832#594"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility IGTiledView-Info.plist -genpkginfo /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/ResourceRules.plist -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/Info.plist0#
+
+CProcessPCH /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch.gch IGTiledView_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292566508.211524
+e292566509.081249
+r1
+xProcessPCH
+x/var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch.gch
+xIGTiledView_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile IGTiledView_Prefix.pch292566508#292566509#0(0"0(0#0#65"/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView_Prefix.pch4300911832#1742"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv7 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -c /Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView_Prefix.pch -o /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-cgiehxfmhkyahsfxzvdzweclrxjl/IGTiledView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch.gch IGTiledView_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292566508.210484
+e292566509.076819
+r1
+xProcessPCH
+x/var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch.gch
+xIGTiledView_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile IGTiledView_Prefix.pch292566508#292566509#0(0"0(0#0#65"/Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView_Prefix.pch4300911832#1742"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-generated-files.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-own-target-headers.hmap -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-all-target-headers.hmap -iquote /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView-project-headers.hmap -F/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/include -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources/armv6 -I/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/DerivedSources -c /Users/ishaan/Dropbox/Projects/IGTiledView/IGTiledView_Prefix.pch -o /var/folders/ZF/ZFpbaw8gHK4FY7jyqs3OGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IGTiledView_Prefix-fexicdfifvavpodvyulsbalvimlb/IGTiledView_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/ishaan/Library/MobileDevice/Provisioning Profiles/4D5CFBA5-6AFC-46F8-9F5C-F00231804ADF.mobileprovision" /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/embedded.mobileprovision
+s292566510.807183
+e292566510.809700
+r1
+xProcessProductPackaging
+x/Users/ishaan/Library/MobileDevice/Provisioning Profiles/4D5CFBA5-6AFC-46F8-9F5C-F00231804ADF.mobileprovision
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/ishaan/Library/MobileDevice/Provisioning Profiles/4D5CFBA5-6AFC-46F8-9F5C-F00231804ADF.mobileprovision" build/Debug-iphoneos/IGTiledView.app/embedded.mobileprovision292566510#292566510#0(0"0(0#0#104"/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/embedded.mobileprovision4300911832#436"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/ishaan/Library/MobileDevice/Provisioning Profiles/4D5CFBA5-6AFC-46F8-9F5C-F00231804ADF.mobileprovision" -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView.xcent
+s292566510.812317
+e292566510.822572
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView.xcent
+lSLF07#2@189"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView.xcent292566510#292566510#0(0"0(0#0#117"/Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView.xcent4300911832#454"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/ishaan/Dropbox/Projects/IGTiledView/build/IGTiledView.build/Debug-iphoneos/IGTiledView.build/IGTiledView.xcent0#
+
+CTouch /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app
+s292566510.809752
+e292566510.812248
+r1
+xTouch
+x/Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app
+lSLF07#2@85"Touch /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app292566510#292566510#0(0"0(0#0#0"4300911832#276"    cd /Users/ishaan/Dropbox/Projects/IGTiledView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ishaan/Dropbox/Projects/IGTiledView/build/Debug-iphoneos/IGTiledView.app0#
+

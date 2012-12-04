@@ -1,0 +1,28 @@
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:9:34: error: IGTiledViewController.h: No such file or directory
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:15: warning: cannot find interface declaration for 'IGTiledViewController'
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:15: error: no declaration of property 'tiledView' found in the interface
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m: In function '-[IGTiledViewController dealloc]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:21: error: request for member 'tiledView' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:22: error: no super class declared in @interface for 'IGTiledViewController'
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m: In function '-[IGTiledViewController didReceiveMemoryWarning]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:26: error: no super class declared in @interface for 'IGTiledViewController'
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:27: error: 'tiledView' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:27: error: (Each undeclared identifier is reported only once
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:27: error: for each function it appears in.)
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m: In function '-[IGTiledViewController viewDidLoad]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:34: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:35: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:39: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:39: warning: incompatible Objective-C types 'struct IGTiledViewController *', expected 'struct NSObject *' when passing argument 2 of 'initWithFrame:dataSource:' from distinct Objective-C type
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:40: error: request for member 'tiledView' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:43: error: 'tiledView' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:43: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:44: error: request for member 'view' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m: In function '-[IGTiledViewController viewDidUnload]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:50: error: request for member 'tiledView' in something not a structure or union
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m: In function '-[IGTiledViewController willRotateToInterfaceOrientation:duration:]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:61: error: no super class declared in @interface for 'IGTiledViewController'
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:62: error: 'tiledView' undeclared (first use in this function)
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m: In function '-[IGTiledViewController didRotateFromInterfaceOrientation:]':
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:66: error: no super class declared in @interface for 'IGTiledViewController'
+/Users/ishaan/Dropbox/Projects/IGTiledView/TiledExampleViewController.m:67: error: 'tiledView' undeclared (first use in this function)
